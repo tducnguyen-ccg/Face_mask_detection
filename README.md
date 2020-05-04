@@ -8,11 +8,11 @@ https://github.com/Star-Clouds/CenterFace
 
 ## Usage
 Create the training face for CNN model
-'''
+```
 python face_record.py
-'''
+```
 
 Training and testing the face mask detection with camera: modify the "training" flag to True or False to active the training or mask detection process
-'''
+```
 python mask_classification.py
-'''
+```
