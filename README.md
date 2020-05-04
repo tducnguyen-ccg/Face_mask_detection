@@ -7,7 +7,7 @@ Please check this repo for the lated update of face detection model.
 https://github.com/Star-Clouds/CenterFace
 
 ## Usage
-Create the training face for CNN model
+Create the face data for model training
 ```
 python face_record.py
 ```
